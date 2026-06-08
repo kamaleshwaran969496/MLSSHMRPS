@@ -130,6 +130,10 @@ Output:
 
 Department of Electronics and Communication Engineering
 
+### College
+
+R.M.K. Engineering College
+
 ---
 
 **Project Title:**
