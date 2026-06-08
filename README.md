@@ -143,7 +143,7 @@ IEEE Research Project
 
 ---
 
-## Demo Video
+## Demo Videos
 
 Google Drive Link:
 Data_samples_demo_1.mp4 : https://drive.google.com/file/d/1WrTiTX44Egabc7yUeexPw88KjaGeTVl_/view?usp=drive_link
