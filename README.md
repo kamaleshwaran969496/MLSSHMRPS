@@ -143,6 +143,17 @@ IEEE Research Project
 
 ---
 
+## Demo Video
+
+Google Drive Link:
+Data_samples_demo_1.mp4 : https://drive.google.com/file/d/1WrTiTX44Egabc7yUeexPw88KjaGeTVl_/view?usp=drive_link
+Data_samples_demo_2.mp4 : https://drive.google.com/file/d/1PPMwjo2mYmFnjx0auXtJb-slaMJXoDDK/view?usp=drive_link
+Data_samples_demo_3.mp4 : https://drive.google.com/file/d/1ptXvJlerkpQGO30RxPR4ScSQaOC-MSjj/view?usp=drive_link
+Real_time_data_ML_prediction.mp4 : https://drive.google.com/file/d/1IRUuj4BIjzKpXsUBT5HspeIYI4qy4p33/view?usp=drive_link
+Real_time_ML_prediction_via_web_dashboard.mp4 : https://drive.google.com/file/d/1Unu3BH-jNns_KMHXtIqW-LuH0GTr507T/view?usp=drive_link
+
+---
+
 ## Future Enhancements
 
 * Low Power Consumption using Li-ion battery
